@@ -1,0 +1,1 @@
+Intial commit for Basic Algorithm Scripting exercises.
