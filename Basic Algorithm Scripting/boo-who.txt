@@ -1,0 +1,8 @@
+function booWho(bool) {
+  let ret = false
+  if(typeof bool == "boolean")
+    ret = true;
+  return ret;
+}
+
+booWho(null);
